@@ -1,8 +1,8 @@
 {
-  "build": 11,
-  "ota": "bundles/build-11.json",
+  "build": 12,
+  "ota": "bundles/build-12.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "Clearer, easier-to-read font for all words.",
-  "published": "2026-10-31T22:32:55Z"
+  "notes": "New Cases course: 7 lessons with clear tables, 71 quiz questions, a Cases trainer with endless practice, and a big test.",
+  "published": "2026-10-31T23:40:32Z"
 }
