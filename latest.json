@@ -1,8 +1,8 @@
 {
-  "build": 5,
-  "url": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/bundles/build-5.zip",
+  "build": 6,
+  "url": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/bundles/build-6.zip",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 5,
-  "notes": "Back button fix, daily reminders, streaks, badges, Okto the octopus and speaking practice.",
-  "published": "2026-10-31T19:14:07Z"
+  "notes": "New: Share the app with family by QR code, WhatsApp, text or email (Learn → Share the app).",
+  "published": "2026-10-31T19:20:54Z"
 }
