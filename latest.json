@@ -1,8 +1,8 @@
 {
-  "build": 10,
-  "ota": "bundles/build-10.json",
+  "build": 11,
+  "ota": "bundles/build-11.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "Fixed updates for good. One-time reinstall needed: back up first (Learn → Backup → Copy full backup).",
-  "published": "2026-10-31T21:09:18Z"
+  "notes": "Clearer, easier-to-read font for all words.",
+  "published": "2026-10-31T22:32:55Z"
 }
