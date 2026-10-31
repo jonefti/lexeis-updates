@@ -1,8 +1,8 @@
 {
-  "build": 7,
-  "url": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/bundles/build-7.zip",
+  "build": 8,
+  "url": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/bundles/build-8.zip",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 5,
-  "notes": "Fixed: the Listen button now reads words aloud.",
-  "published": "2026-10-31T19:49:30Z"
+  "notes": "Fixed Listen. Settings button on the home screen. Clearer update messages.",
+  "published": "2026-10-31T20:01:33Z"
 }
