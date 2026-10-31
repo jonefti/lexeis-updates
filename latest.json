@@ -1,8 +1,8 @@
 {
-  "build": 9,
-  "url": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/bundles/build-9.zip",
+  "build": 10,
+  "ota": "bundles/build-10.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
-  "minNative": 5,
-  "notes": "New: Greek for beginners (kids levels with the alphabet), Today's test, listen buttons on every word, and clearer drill hints.",
-  "published": "2026-10-31T20:55:17Z"
+  "minNative": 10,
+  "notes": "Fixed updates for good. One-time reinstall needed: back up first (Learn → Backup → Copy full backup).",
+  "published": "2026-10-31T21:09:18Z"
 }
