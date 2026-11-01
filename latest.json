@@ -1,8 +1,8 @@
 {
-  "build": 15,
-  "ota": "bundles/build-15.json",
+  "build": 16,
+  "ota": "bundles/build-16.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "Fixed the 'end of JSON input' error when Claude looks up a word.",
-  "published": "2026-11-01T10:40:10Z"
+  "notes": "Better spacing; add new words from tests; spelling help and English search when adding words.",
+  "published": "2026-11-01T16:25:47Z"
 }
