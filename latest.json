@@ -1,8 +1,8 @@
 {
-  "build": 12,
-  "ota": "bundles/build-12.json",
+  "build": 13,
+  "ota": "bundles/build-13.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "New Cases course: 7 lessons with clear tables, 71 quiz questions, a Cases trainer with endless practice, and a big test.",
-  "published": "2026-10-31T23:40:32Z"
+  "notes": "Fixed: the Lesson links in quizzes now take you back to the lesson.",
+  "published": "2026-11-01T00:05:16Z"
 }
