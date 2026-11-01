@@ -1,8 +1,8 @@
 {
-  "build": 16,
-  "ota": "bundles/build-16.json",
+  "build": 17,
+  "ota": "bundles/build-17.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "Better spacing; add new words from tests; spelling help and English search when adding words.",
-  "published": "2026-11-01T16:25:47Z"
+  "notes": "Word order: drag words into place. New Case spotter: name the case of every word in real sentences.",
+  "published": "2026-11-01T19:03:07Z"
 }
