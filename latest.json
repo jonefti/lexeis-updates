@@ -1,8 +1,8 @@
 {
-  "build": 18,
-  "ota": "bundles/build-18.json",
+  "build": 19,
+  "ota": "bundles/build-19.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "Word tests: switch between typing and multiple choice; fairer marking for articles, capitals and accents.",
-  "published": "2026-11-01T22:06:18Z"
+  "notes": "New: Games (Word Rain, Memory pairs, daily word puzzle) and Family groups with a weekly league, family streak and team challenges.",
+  "published": "2026-11-01T22:40:26Z"
 }
