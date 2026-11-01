@@ -1,8 +1,8 @@
 {
-  "build": 13,
-  "ota": "bundles/build-13.json",
+  "build": 14,
+  "ota": "bundles/build-14.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "Fixed: the Lesson links in quizzes now take you back to the lesson.",
-  "published": "2026-11-01T00:05:16Z"
+  "notes": "Long-press any word in a text or quiz to see its meaning and add it to your words.",
+  "published": "2026-11-01T10:27:22Z"
 }
