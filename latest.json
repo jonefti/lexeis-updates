@@ -1,8 +1,8 @@
 {
-  "build": 21,
-  "ota": "bundles/build-21.json",
+  "build": 22,
+  "ota": "bundles/build-22.json",
   "apk": "https://raw.githubusercontent.com/jonefti/lexeis-updates/main/apk/Lexeis.apk",
   "minNative": 10,
-  "notes": "New language: Mandarin, from beginner to GCSE Higher, with pinyin, tones and measure words.",
-  "published": "2026-11-02T16:39:17Z"
+  "notes": "Add words from a screenshot (e.g. Duolingo) and test yourself on your own words.",
+  "published": "2026-11-02T20:34:04Z"
 }
